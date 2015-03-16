@@ -7,7 +7,7 @@ should include methods for setting the value of each type, and retrieving the
 value of each type.
 
 #Pseudo-code
-Let's make UML diagram:
+Let's make UML diagram for this problem first:
 
 ------------------------------
 |Class:     Flower           |
