@@ -3,6 +3,9 @@ R-2.6: If the parameter to the make_payment method of the CreditCard class were
 negative number, that would have the effect of raising the balance on the account.
 Revise the implementation so that it raises a ValueError if a negative value is
 sent.
+
+#Pseudo-code:
+This is fairly easy so there is no pseudo code.
 '''
 
 # Original Code:
